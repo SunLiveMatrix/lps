@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{28B1FE56-2847-4502-B728-487AC36AFA57}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>lps</RootNamespace>
+    <AssemblyName>lps</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Web" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App\" />
+    <Folder Include="App\BeginEventHandle\" />
+    <Folder Include="App\DefaultHttpHandler\" />
+    <Folder Include="App\HttpApplication\" />
+    <Folder Include="App\HttpApplicationState\" />
+    <Folder Include="App\HttpCookies\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App\lps.cs" />
+    <Compile Include="App\BeginEventHandle\Object.cs" />
+    <Compile Include="App\BeginEventHandle\IntPtr.cs" />
+    <Compile Include="App\DefaultHttpHandler\Handler.cs" />
+    <Compile Include="App\HttpApplication\Application.cs" />
+    <Compile Include="App\HttpApplicationState\Add.cs" />
+    <Compile Include="App\HttpCookies\Cookies.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

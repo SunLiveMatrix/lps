@@ -1,0 +1,15 @@
+{
+    "startupProject": "lps",
+    "expandedItems": [
+        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpApp",
+        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpObjects",
+        "/home/admin/ltt.net/lps/lps/lps/lps/lps/dub.json",
+        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source",
+        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpCheckCurrent",
+        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpHandlerKey",
+        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpClick"
+    ],
+    "selectedWorkspaceItem": "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/app.d",
+    "files": [
+    ]
+}

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{28B1FE56-2847-4502-B728-487AC36AFA57}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lps/App/HttpCookies/Cookies.cs">
+    <Files>
+      <File FileName="lps/App/lps.cs" Line="98" Column="1" />
+      <File FileName="lps/App/BeginEventHandle/Object.cs" Line="8" Column="37" />
+      <File FileName="lps/App/BeginEventHandle/IntPtr.cs" Line="9" Column="1" />
+      <File FileName="lps/App/DefaultHttpHandler/Handler.cs" Line="9" Column="1" />
+      <File FileName="lps/App/HttpApplication/Application.cs" Line="12" Column="1" />
+      <File FileName="lps/App/HttpApplicationState/Add.cs" Line="8" Column="31" />
+      <File FileName="lps/App/HttpCookies/Cookies.cs" Line="10" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lps" expanded="True">
+            <Node name="lps" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" selected="True" />
+              <Node name="App" expanded="True">
+                <Node name="BeginEventHandle" expanded="True" />
+                <Node name="DefaultHttpHandler" expanded="True" />
+                <Node name="HttpApplication" expanded="True" />
+                <Node name="HttpApplicationState" expanded="True" />
+                <Node name="HttpCookies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lps FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

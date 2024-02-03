@@ -1,0 +1,6 @@
+{
+    "name": "lps",
+    "targetName": "lps",
+    "targetType": "executable",
+    "targetPath": "bin"
+}
