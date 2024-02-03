@@ -1,8 +1,10 @@
 {
     "name": "lps",
-    "description": null,
+    "description": " / ",
     "projects": {
-        "lps": "lps/dub.json"
+        "lps": "lps/dub.json",
+        "lpd": "../../../../lpp/lpd/dub.json",
+        "lpt3": "../../../../lpt/lpt3/dub.json"
     },
     "includePath": {
     }

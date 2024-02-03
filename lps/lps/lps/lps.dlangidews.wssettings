@@ -1,15 +1,32 @@
 {
     "startupProject": "lps",
     "expandedItems": [
-        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpApp",
-        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpObjects",
         "/home/admin/ltt.net/lps/lps/lps/lps/lps/dub.json",
-        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source",
-        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpCheckCurrent",
-        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpHandlerKey",
-        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpClick"
+        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpApp",
+        "/home/admin/ltt.net/lpp/lpd/source",
+        "/home/admin/ltt.net/lpt/lpt3/source",
+        "/home/admin/ltt.net/lps/lps/lps/lps/lps/source"
     ],
-    "selectedWorkspaceItem": "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/app.d",
+    "selectedWorkspaceItem": "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpApp/package.d",
     "files": [
+        {
+            "file": "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/app.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/ltt.net/lpt/lpt3/source/app.d",
+            "column": 17,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/ltt.net/lps/lps/lps/lps/lps/source/HttpApp/package.d",
+            "column": 2,
+            "row": 7
+        }
+    ],
+    "breakpoints": [
+    ],
+    "bookmarks": [
     ]
 }
